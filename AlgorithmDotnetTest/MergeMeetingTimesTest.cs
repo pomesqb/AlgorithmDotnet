@@ -38,7 +38,7 @@ namespace AlgorithmDotnetTest
         };
 
         [SetUp]
-        public void Setup()
+        public void SetUp()
         {
             _algorithmMergeMeetingTimes = new AlgorithmMergeMeetingTimes();
         }
